@@ -1,0 +1,26 @@
+{
+  "name": "https-dev-server",
+  "version": "1.0.0",
+  "description": "HTTPS development server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andhikaribrahim/https-dev-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andhikaribrahim/https-dev-server/issues"
+  },
+  "homepage": "https://github.com/andhikaribrahim/https-dev-server#readme",
+  "dependencies": {
+    "devcert": "^1.1.1",
+    "dotenv": "^8.2.0",
+    "http-proxy": "^1.18.1",
+    "https": "^1.0.0"
+  }
+}
