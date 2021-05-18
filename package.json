@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/andhikaribrahim/https-dev-server#readme",
   "dependencies": {
-    "devcert": "^1.1.1",
+    "devcert": "^1.1.2",
     "dotenv": "^8.2.0",
     "http-proxy": "^1.18.1",
     "https": "^1.0.0"
